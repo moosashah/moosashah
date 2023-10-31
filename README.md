@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on configuring my nvim environment
-- 🌱 I’m currently learning: nvim/fastify
-- 💬 Ask me about American Football 🏈
-- 📫 How to reach me: [twitter](https://twitter.com/moosashah) or [email](mailto:hello.moosashah@gmail.com)
+- 🔭 I’m currently working on Pickems, a discord bot
+- 🌱 I’m currently learning: about business/marketing and how to build SaaS projects
+- 📫 How to reach me: [twitter](https://twitter.com/moosashah) or [linkedIn](https://www.linkedin.com/in/moosashah/)
 - ⚡ Fun fact: I used to be a videographer 🎥 and Video editor 🎬
