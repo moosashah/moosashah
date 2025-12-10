@@ -1,12 +1,10 @@
 ### Hi there I'm Moosa 👋🏾
 
 I'm a Software Engineer with expertise in
-- TypeScript
-- JavaScript
+- TypeScript/JavaScript
+- Nextjs
 - React
-- Node
-
-and the broader JS/Web ecosystem
+- Node/Bun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosashah&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
 
